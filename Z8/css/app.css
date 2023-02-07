@@ -1,0 +1,72 @@
+body {
+    background-image: url(../slike/muzika.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-emphasis-color: black;
+
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-align: center;
+    color: rgb(63, 98, 211);
+  }
+
+  h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(63, 98, 211);
+  }
+
+  .beba{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.disko{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.eminem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tupac{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.teen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kendrick{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nagrada{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    text-emphasis-color: black;
+}
